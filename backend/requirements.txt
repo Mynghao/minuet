@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+python-multipart
+aiofiles
+numpy
+pydub
+numi
+torch
+transformers
+librosa
+soundfile
+anthropic
+requests
+faster_whisper
+python-multipart

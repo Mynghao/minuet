@@ -1,0 +1,1 @@
+{"engine": "faster-whisper", "model": "base.en", "device": "cpu", "compute_type": "int8", "duration": 7.68, "language": "en", "transcript": "Test test test test test test this should output a summary of transcript and also everything else. So please output assembly", "segments": [], "words": []}
